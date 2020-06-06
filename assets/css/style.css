@@ -29,6 +29,11 @@ body{
 .navbar-inverse{
     padding: 1%;
 }
+@media (max-width: 320px) {
+	.film_label{
+        font-size: 11px;
+    }
+}
 @media (max-width: 376px) {
 	.film_label{
         font-size: 12px;
